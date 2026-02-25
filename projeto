@@ -1,0 +1,10 @@
+- assets
+ -- css
+ --- style.css
+ -- imgs
+ -- js
+ - layouts
+ -- header.php
+- index.php
+ - show_zodiac_sign.php
+ - signos.xml
